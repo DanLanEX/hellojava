@@ -1,6 +1,6 @@
 package Chap02;
 
-public class SumAvel {
+public class SumAve1 {
     public static void main(String[] args){
         int x;                                          //x是int型变量
         int y;                                          //y是int型变量
