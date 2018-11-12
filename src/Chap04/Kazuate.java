@@ -17,7 +17,6 @@ public class Kazuate {
         int x;
         do {
             System.out.print("是多少呢？");
-            System.out.println("请输入数字：");
             x = stdIn.nextInt();
             
             if(x>no)
@@ -26,7 +25,7 @@ public class Kazuate {
                 System.out.println("比这个数字大哟");
             
         }while (x!=no);
-        System.out.println("恭喜亲，回答正确。赏你一巴掌。");
+        System.out.println("恭喜亲，回答正确。上你一巴掌。");
 
 
     }
